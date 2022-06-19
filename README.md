@@ -1,7 +1,7 @@
 # Snake
 ## Preview from dima-coder =)!
 1. This project use jdk 8.
-2. Project is simple snake.
+2. Project is a simple snake.
 
 ## Features
 - Click on arrow up, down, left, righ for control the snake.
